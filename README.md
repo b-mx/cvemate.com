@@ -56,7 +56,7 @@ The score is further adjusted by conditional rules that handle specific threat s
 
 🗺️ Upcoming features and improvements planned for CveMate.
 
-> **Vote for features!** Take the [Roadmap Poll](https://github.com/pl0psec/cvemate.com/discussions/2) to help prioritize what gets built next.
+> **Vote for features!** Take the [Roadmap Poll](https://github.com/b-mx/cvemate.com/discussions/2) to help prioritize what gets built next.
 
 ### **Enhanced Asset Inventory**
 - [ ] 🏭 **Vendor Database** - Comprehensive vendor information and tracking
@@ -81,7 +81,7 @@ The score is further adjusted by conditional rules that handle specific threat s
 - 🐛 **Report bugs** - Help us improve stability
 - 💡 **Suggest features** - Share your ideas for new capabilities
 
-**Open an issue or contribute:** [github.com/pl0psec/cvemate.com/issues](https://github.com/pl0psec/cvemate.com/issues)
+**Open an issue or contribute:** [github.com/b-mx/cvemate.com/issues](https://github.com/b-mx/cvemate.com/issues)
 
 ## Community
 

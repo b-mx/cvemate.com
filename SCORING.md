@@ -4,7 +4,7 @@
 >
 > This scoring methodology is experimental and actively evolving. We welcome feedback, suggestions, and recommendations from the security community to improve it.
 >
-> **[Share your feedback](https://github.com/pl0psec/cvemate.com/issues)**
+> **[Share your feedback](https://github.com/b-mx/cvemate.com/issues)**
 
 ---
 
@@ -185,4 +185,4 @@ This feature is in the brainstorming phase. We want to understand:
 - What factors should influence score adjustments for each profile?
 - Are there industry-specific profiles that would be valuable?
 
-**[Share your ideas and requirements](https://github.com/pl0psec/cvemate.com/issues)**
+**[Share your ideas and requirements](https://github.com/b-mx/cvemate.com/issues)**
